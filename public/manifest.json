@@ -1,0 +1,11 @@
+{
+  "name": "Unlocked",
+  "short_name": "Unlocked",
+  "description": "A streaming Platform that completely free",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#23ffe5",
+  "orientation": "portrait",
+  "lang": "en-US"
+}
